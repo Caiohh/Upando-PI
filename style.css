@@ -1,0 +1,21 @@
+.nav-upd {
+  background-color: #212529;
+  color: aliceblue;
+  border: none;
+}
+
+.nav-upd:hover {
+  background-color: #355b81;
+  color: aliceblue;
+  border: none;
+}
+
+.bg-body {
+  background-image: url("./img/bg/bg-1.jpg");
+}
+
+.main {
+  background-color: white;
+  padding: 50px 100px 50px 100px;
+  border-radius: 3%;
+}
